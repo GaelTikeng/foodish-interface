@@ -1,0 +1,17 @@
+.refresh-btn {
+	align-items: baseline;
+	padding: 5px 10px;
+	border-radius: 10px;
+	border: none;
+	box-shadow: 1px 3px 4px;
+}
+
+.refresh-btn:hover {
+	cursor: pointer;
+	transform: translateY(2px);
+}
+
+.refresh-icon {
+	padding-right: 10px;
+	margin: auto;
+}
